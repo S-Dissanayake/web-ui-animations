@@ -1,2 +1,2 @@
 # web-ui-animations
-animations for web
+animations for web development
